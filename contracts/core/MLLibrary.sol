@@ -1,4 +1,4 @@
-55pragma solidity ^0.8.0;
+pragma solidity ^0.8.0;
 
 import '../utils/math/Math.sol';
 import '../../interfaces/protocol/core/IMLPair.sol';
