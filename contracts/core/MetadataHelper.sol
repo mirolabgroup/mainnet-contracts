@@ -1,4 +1,4 @@
-4pragma solidity ^0.8.0;
+pragma solidity ^0.8.0;
 
 library MetadataHelper {
     function getSymbol(address token) internal view returns (bool, string memory) {
